@@ -12,12 +12,14 @@ A Machine Learning application that predicts annual healthcare costs based on pa
 
 ## Workflow
 
+## Workflow
+
 1. Data Loading
-2. Data Cleaning
-3. Feature Engineering
-4. Train-Test Split
-5. One Hot Encoding
-6. MinMax Scaling
+2. Data Understanding
+3. Data Cleaning
+4. Feature & Target Separation
+5. Train-Test Split
+6. Feature Engineering (Encoding + Scaling)
 7. KNN Model Training
 8. Model Evaluation
 9. Model Saving
