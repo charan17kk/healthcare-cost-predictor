@@ -12,8 +12,6 @@ A Machine Learning application that predicts annual healthcare costs based on pa
 
 ## Workflow
 
-## Workflow
-
 1. Data Loading
 2. Data Understanding
 3. Data Cleaning
